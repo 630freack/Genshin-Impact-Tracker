@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "save_date": "2026-01-12 00:16:31",
+    "total_items": 2
+  },
+  "items": [
+    {
+      "name": "Окулы",
+      "region": "Mondstadt",
+      "x": -100.0,
+      "y": 100.0,
+      "type": "Другое",
+      "collected": false,
+      "date_added": "2026-01-12 00:10:20",
+      "notes": ""
+    },
+    {
+      "name": "ерва",
+      "region": "Inazuma",
+      "x": -100.0,
+      "y": 100.0,
+      "type": "Ресурс",
+      "collected": false,
+      "date_added": "2026-01-12 00:16:01",
+      "notes": ""
+    }
+  ]
+}
